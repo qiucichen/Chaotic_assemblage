@@ -4,4 +4,7 @@
 - 爬取微博话题数据
 
 ## gensim-lda.py
-- 主题模型
+- gensim 主题模型
+
+## gensim-be_similar
+- gensim 文本相似度
